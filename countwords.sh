@@ -74,4 +74,4 @@ totalwords=0
 rm -rf "${outputdirectory}"
 
 # Write tht total to the report
-{ echo; echo "Total of $totalwords words which with a 10% buffer to account for the ignored code comments becomes $(( totalwords * 11 / 10 ))"; } >> words.md
+{ echo; echo "Total of $totalwords words which with a 20% buffer to account for the ignored code comments becomes $(( totalwords * 12 / 10 ))"; } >> words.md
