@@ -13,7 +13,7 @@ Some description
 ## K-nearest neighbours
 Some description
 
-[link](https://github.com/uOttawa-IT-Research-teaching/k-nearest-neightbours)
+[link](https://github.com/uOttawa-IT-Research-teaching/ML_k-nearest-neightbours)
 
 ## Support vector machines
 Some description
@@ -30,20 +30,20 @@ Some description
 
 [link](https://github.com/uOttawa-IT-Research-teaching/ML_naive_bayes)
 
+## Deep and convolutional neural networks
+Some description
+
+[link](https://github.com/uOttawa-IT-Research-teaching/DNN-CNN_Intro)
+
 ## Transfer learning with CNN model
 Some description
 
-No link yet
+[link](https://github.com/uOttawa-IT-Research-teaching/TransferLearning_CNN)
 
 ## Natural Language Processing
 Some description
 
-No link yet
-
-## Recursive neural networks and long-short term memory
-Some description
-
-No link yet
+[link](https://github.com/uOttawa-IT-Research-teaching/ML_Natural_Language_Processing)
 
 ## Dataset analysis, model shortlisting, and model determination
 Some description
