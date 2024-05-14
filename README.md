@@ -37,55 +37,30 @@ In each notebook you will see a short description of the training material, the 
 These series were developed by a team of scholars from the University of Ottawa. The development of the Machine Learning Series Training involved collaboration among scientific computing specialists, Jarno van der Kolk and Peter Darveau, and Felicity Tayler a specialist from the Data Literacy Research Institute focusing on Research Data Management, advisors, and research assistants. Led by a diverse team with expertise spanning scientific computing, AI training, and research data management, the initiative seeks to integrate best practices in research data management with AI and ML tutorials. With Julie St-Pierre, an advisor from the University of Ottawa’s research support and infrastructure team, the project ensures alignment with academic standards and aims to empower researchers and support staff with easily accessible, reusable training assets in both French and English.
 
 ## Index to the Tutorials
-In this series of training, we cover a wide range of topics as follows:
 
-### ML_cleaning_and_Regression
-This tutorial focuses on optimizing data preparation for machine learning, specifically by merging bike traffic and weather data to predict bike traffic patterns based on weather conditions. Utilizing Open Data sources, we ensure data integrity and consistency, rectify any errors, and enhance the dataset with additional values for accuracy. The tutorial employs Linear Regression, the simplest machine learning model, to make predictions based on input data. Data is sourced from Ottawa's bike count data via their Open Data website and historical weather data from Environment Canada. These datasets, already downloaded and available in the tutorial repository, are combined to create training data.
+In this series of training, we cover the following topics:
 
-### Decision Trees
-
-This training contained three notebooks: This tutorial will delve into the functionality of the Decision Tree algorithm in prediction-making. Comprising three notebooks, each notebook delves into distinct applications of the Decision Tree and its associated Random Forest algorithm. Essentially, a Random Forest constitutes a compilation of Decision Trees.
-
-#### Notebook 1 Decision Trees
-
-This notebook will focus on analyzing data related to the Iris flower, a widely cultivated genus across various global temperature zones. With approximately 300 species, manual identification of these plants can be time-consuming. Therefore, the objective is to develop a model capable of predicting the iris flower's class based on its distinctive features. This entails accessing Open Data sources to obtain datasets containing information on different iris flower classes and their key attributes, ensuring data integrity and consistency. The tutorial will employ Decision Trees, a straightforward machine learning model, which operates by segregating data into groups akin to categorizing a population based on various attributes. This hierarchical structure aids in accurately predicting outcomes when new input data is introduced to the model.
-
-#### Notebook 2 Random Forest
-
-This tutorial explores the functionality of the Decision Tree algorithm in predicting classes of Iris flowers based on their features. With over 300 species, manual identification of Iris plants is time-consuming, hence the need for a predictive model. Accessing Open Data sources provides ample datasets for analysis, ensuring data integrity and enrichment. Utilizing Decision Trees, the tutorial demonstrates how this simple machine learning model partitions data into groups, facilitating accurate predictions when new data is introduced. Additionally, the tutorial extends to Random Forest models, comprising multiple decision trees for enhanced prediction accuracy. The datasets, procured from the University of California Irvine's Open Data website, are readily available in the tutorial repository for training and testing purposes.
-
-#### Notebook 3 Random Forest + Noisy Datasets
-This tutorial delves into the efficacy of Random Forest classifiers in enhancing predictions on noisy datasets, using the cleaned dataset from a Linear Regression tutorial as an example. While Linear Regression is a widely employed technique for modeling variable relationships, its assumption of linearity often falters in real-world datasets rife with noise, anomalies, or intricate nonlinear patterns. Consequently, linear regression may struggle to produce accurate predictions, as it tends to overfit noise rather than discern the underlying structure. Through this tutorial, the superiority of random forests over linear regression on noisy datasets is demonstrated. Random forests, an ensemble method, leverage the predictions of multiple decision trees to yield more robust and generalized solutions. By employing the cleaned dataset containing anomalies and missing/incorrect values, learners gain insight into how random forests mitigate the impact of noise and other issues, thereby offering superior predictive performance.
-
-### ML_naive_bayes
-This tutorial provides an overview of the Naive Bayes Classifier, a machine learning technique used for pattern detection and prediction. It begins by revisiting the Iris flower dataset to introduce the basic steps of working with the Naive Bayes Classifier. Next, it applies the classifier to detect spam in SMS messages using the SMS Spam collection dataset from the UCI Machine Learning Repository, followed by multi-label classification using the CMU book dataset. Additionally, the tutorial illustrates a scenario where the Naive Bayes Classifier fails and explains the reasons behind it. By the end of this tutorial, participants will be able to grasp the concept of the Naive Bayes classifier, split data into training and testing sets, make predictions, evaluate classifier performance, identify spam, classify books, train a Gaussian Naive Bayes classifier for single or multiple labels, and utilize imputation techniques for handling missing data.
-
-### Support Vector Machines (SVMs)
-Support vector machines (SVMs) are robust machine learning models that utilize mathematical optimization to identify maximum margin hyperplanes for classification tasks. This training contained four notebooks: Regularization, Kernels, Deeper-Undertanding, and Noise_Red_Reduction.
-
-#### Notebook 1: Regularization
-In this notebook, we delve into Support Vector Machines (SVMs), focusing on the principle of maximizing the margin to achieve robust classification performance. SVMs excel in classification and regression tasks by identifying the optimal decision boundary that maximizes the separation between different classes' closest data points, known as support vectors. We explore SVMs' capability to handle both linearly and non-linearly separable patterns through kernel functions. Using the make_blobs dataset from scikit-learn, which generates synthetic data with well-defined clusters, we gain hands-on experience in training linear SVM models and visualizing decision boundaries. Additionally, we learn about regularization techniques and practice tuning regularization parameters to optimize model performance.
-
-#### Notebook 2: Kernels
-This notebook introduces kernels, which are functions that elevate data to a higher dimension for better separability. Kernels are vital in Support Vector Machines (SVMs) as they transform non-linear problems into linearly separable ones, enhancing classifier accuracy. Four popular SVM kernels include Linear, Polynomial, Radial Basis Function (RBF), and Sigmoid kernels. The project focuses on classifying Pulsar stars using SVM, tackling dispersed datasets through the kernel trick, enabling separation in higher-dimensional spaces. The dataset used is available from the University of California Irvine's Open Data website. It describes the periodic radio signals emitted by rotating pulsars, aiding in distinguishing true pulsars from interference. Learning objectives encompass understanding SVMs, kernels, implementation in Python with scikit-learn, kernel selection, tuning for optimal performance, and model evaluation through techniques like cross-validation.
-
-#### Notebook 3: A Deeper Understanding
-This notebook delves into SVMs, potent supervised ML algorithms for classification and regression tasks, tackling scenarios where data dispersion challenges linear separation. Using visual representations of datasets, it explores how diverse kernel functions in SVM classifiers affect decision boundaries and margins, offering practical insights beyond mathematical analysis. The tutorial utilizes the iris dataset from sklearn to exemplify these concepts. Participants will gain practical experience in implementing SVM kernels, understand kernel selection and tuning, and develop a tangible understanding of how different kernels enhance classification performance through visualizations.
-
-#### Notebook 4: Noise_Red_Reduction
-This notebook focuses on addressing noise and variance in data, essential challenges in real-world systems. Noise, arising from natural randomness and uncertainties, includes measurement errors and unmeasured influences. To combat variance, the tutorial explores how Random Forests employ ensemble modeling to reduce overfitting in SVM models. By averaging probabilistic predictions from an ensemble of SVM classifiers, Random Forests mitigate variance and enhance model performance, offering insights into ensemble learning techniques and the synergy between SVM and Random Forest classifiers in handling noisy data.
+* [Data cleaning and linear regression](https://github.com/uOttawa-IT-Research-teaching/ML_cleaning_and_regression)
+* [K-nearest neighbours](https://github.com/uOttawa-IT-Research-teaching/ML_k-nearest-neightbours)
+* [Decision trees and random forests](https://github.com/uOttawa-IT-Research-teaching/DecisionTrees)
+* [Support vector machines](https://github.com/uOttawa-IT-Research-teaching/SVM)
+* [Naive Bayes](https://github.com/uOttawa-IT-Research-teaching/ML_naive_bayes)
+* [Natural language processing](https://github.com/uOttawa-IT-Research-teaching/ML_Natural_Language_Processing)
+* [Introduction to deep and convolutional neural networks](https://github.com/uOttawa-IT-Research-teaching/DNN-CNN_Intro)
+* [Image inferencing with convolutional neural networks](https://github.com/uOttawa-IT-Research-teaching/DeepLearning)
+* [Transfer learning](https://github.com/uOttawa-IT-Research-teaching/TransferLearning_CNN)
+* [Dataset analysis, model shortlisting and model determination](https://github.com/uOttawa-IT-Research-teaching/ML_Dataset_analysis_and_shortlisting)
 
 ## Prerequisites:
 
 Participants are expected to have:
 
-* Basic knowledge of Python programming language.
-* Familiarity with fundamental concepts in statistics and machine learning.
+* Very basic knowledge of Python programming language.
 * Prior exposure to research data management practices is advantageous but not mandatory.
 
 ## Getting Started:
 
-To begin your journey into the realm of research data management and machine learning, explore the notebooks available in our [GitHub repository](https://github.com/orgs/uOttawa-IT-Research-teaching/repositories).
+To begin your journey into the realm of research data management and machine learning, explore the notebooks available in our [GitHub repository](https://github.com/orgs/uOttawa-IT-Research-teaching/repositories) or use the direct links from the index above.
 
 Feel free to engage with the material, experiment with the code, and embark on a transformative learning experience in research data management and machine learning!
 
@@ -109,8 +84,6 @@ Once Miniconda is installed, you can install Jupyter using
 ```
 conda install -c conda-forge jupyterlab
 ```
-
-Anaconda will already have Jupyter Lab included.
 
 ## Acknowledgment
 
