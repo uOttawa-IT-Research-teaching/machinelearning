@@ -6,7 +6,7 @@ Welcome to the Bilingual (French and English) Machine Learning Training Series h
 
 The production of the Machine Learning Series represents a significant bilingual endeavor aimed at enhancing awareness, understanding, and utilization of Artificial Intelligence (AI) and Machine Learning (ML) within the research community.
 
-The development of Machine Learning Series Training [a][b]involved a collaborative effort from a team consisting of scientific computing specialists, a specialist from the Data Literacy Research Institute focusing on Research Data Management, advisors, and research assistants. Led by a diverse team with expertise spanning scientific computing, AI training, and research data management the initiative seeks to integrate best practices in research data management with AI and ML tutorials. With an advisor from the University of Ottawa’s research support and infrastructure team, the project ensures alignment with academic standards and aims to empower researchers and support staff with easily accessible, reusable training assets in both French and English.
+The development of Machine Learning Series Training involved a collaborative effort from a team consisting of scientific computing specialists, a specialist from the Data Literacy Research Institute focusing on Research Data Management, advisors, and research assistants. Led by a diverse team with expertise spanning scientific computing, AI training, and research data management the initiative seeks to integrate best practices in research data management with AI and ML tutorials. With an advisor from the University of Ottawa’s research support and infrastructure team, the project ensures alignment with academic standards and aims to empower researchers and support staff with easily accessible, reusable training assets in both French and English.
 
 We use the credit taxonomy to acknowledge authorship roles. The participants agreed to be credited for their contributions during the collaborative document creation process and were reminded of their role as authors prior to the document's publication.
 
@@ -18,27 +18,23 @@ RDM expert: Felicity Tayler, MLIS, PhD, Outreach Director \| DLRI and Research D
 
 Advisor: Julie St-Pierre, Associate Vice-President, Research Support and Infrastructure
 
-## Who are these Tutorials for?
+## Target Audience:
+This training series is tailored for:
 
-This series targets researchers across disciplines who use DRI resources, as well as research support staff.  This includes librarians, research administrators, IT staff, and research ethics members. It fills knowledge gaps in data management, AI and ML through tutorials, guides, and workshop material. The goals are to integrate research data management best practices with AI and ML tutorials, to attract new DRI users, better engage existing users, and promote the capabilities of HPC computing technologies and infrastructure.
-
-Tailored to researchers across disciplines and support staff utilizing Distributed Research Infrastructure (DRI) resources, the project fills critical knowledge gaps in data management, AI, and ML through comprehensive tutorials, guides, and workshop materials.
+* Researchers, scientists, and data practitioners involved in data-intensive research projects.
+* Graduate students and academics seeking to enhance their data management and analysis skills.
+* Professionals interested in leveraging machine learning techniques for research data analysis and discovery.
 
 ## How Does This Learning Resource Work?
 This training series aims to address three key gaps in understanding AI and machine learning (ML) methodologies: providing an introduction to AI and ML models, preparing data for these models, and incorporating research data management (RDM) practices into AI and ML-enabled methodologies. While AI and ML are recognized for their potential to automate tasks, identify patterns in data, and assist with analysis, many researchers struggle to apply these computational methods effectively to their research due to several challenges. These include the complexity of selecting the appropriate model for their data, the common omission of data cleaning processes in tutorials, resulting in mismatches between learned models and real-world data, and the separation of AI and ML techniques from RDM practices. By integrating RDM best practices into AI and ML training, researchers can enhance their understanding of methodologies, improve data handling and ethics, foster reproducibility, and gain public trust in these impactful computational methods.
 
 The outcome of the Machine Learning Tutorial Series is aimed at integrating research data management (RDM) best practices with AI and ML tutorials to attract new users, engage existing ones, and showcase the capabilities of HPC computing technologies. Through the development of easily accessible, bilingual training assets, both researchers and support staff will be equipped to harness advanced computing and AI technology for accelerating discovery. This initiative plans to produce seminar and workshop materials covering six new topics, aligning with the DMP Assistant Data Management Plan framework to illustrate AI and ML techniques and modeling while enhancing existing content. These tutorials will guide learners through the process of accessing and cleaning open data for AI and ML model implementation, each session focusing on a new AI or ML model and highlighting both its advantages and limitations alongside RDM best practices throughout the research data lifecycle.
 
-The training material provided in this repository consists of Jupyter Notebooks, datasets, and additional resources carefully curated by the uOttawa IT team. Each notebook is designed to provide a structured learning experience, combining theoretical explanations with hands-on exercises to reinforce understanding.
+The training material provided in this repository consists of Jupyter Notebooks, datasets, and additional resources carefully curated by the uOttawa team. Each notebook is designed to provide a structured learning experience, combining theoretical explanations with hands-on exercises to reinforce understanding.
+
 In each notebook you will see a short description of the training material, the learning objectives and the average time to complete, the necessary tools and documents you will need to complete the training, RDM best practices, and the step-by-step training content.
 
 These series were developed by a team of scholars from the University of Ottawa. The development of the Machine Learning Series Training involved collaboration among scientific computing specialists, Jarno van der Kolk and Peter Darveau, and Felicity Tayler a specialist from the Data Literacy Research Institute focusing on Research Data Management, advisors, and research assistants. Led by a diverse team with expertise spanning scientific computing, AI training, and research data management, the initiative seeks to integrate best practices in research data management with AI and ML tutorials. With Julie St-Pierre, an advisor from the University of Ottawa’s research support and infrastructure team, the project ensures alignment with academic standards and aims to empower researchers and support staff with easily accessible, reusable training assets in both French and English.
-
-## Overarching Principles
-
-The overarching principle for the machine learning training series is to integrate research data management (RDM) best practices with AI and machine learning (ML) tutorials. In this series of tutorials we strive to looking inside the black box of the ways that AI and ML models work. Instead of treating these models as opaque systems where inputs lead to outputs without understanding the internal mechanisms, the tutorial aims to demystify them. It involves understanding the algorithms, processes, and decision-making mechanisms within these models, enabling learners to interpret their results, identify limitations, and make informed decisions about their application.
-
-Through a comprehensive approach to data management, the tutorial emphasizes the importance of proper documentation, metadata creation, and storage to ensure transparency, reproducibility, and accountability in AI and ML modeling. By guiding learners through the process of data collection, cleaning, and sharing, while adhering to standardized file naming structures and versioning practices, the tutorial enables researchers to comply with legal and ethical standards for data handling and preservation. Additionally, the tutorial addresses the ethical considerations inherent in AI and ML applications, such as privacy protection and bias mitigation, fostering responsible research practices. Overall, by integrating RDM best practices into the AI and ML workflow, the tutorial promotes a culture of ethical conduct, data integrity, and reproducible research in the scientific community.
 
 ## Index to the Tutorials
 In this series of training, we cover a wide range of topics as follows:
@@ -78,13 +74,6 @@ This notebook delves into SVMs, potent supervised ML algorithms for classificati
 
 #### Notebook 4: Noise_Red_Reduction
 This notebook focuses on addressing noise and variance in data, essential challenges in real-world systems. Noise, arising from natural randomness and uncertainties, includes measurement errors and unmeasured influences. To combat variance, the tutorial explores how Random Forests employ ensemble modeling to reduce overfitting in SVM models. By averaging probabilistic predictions from an ensemble of SVM classifiers, Random Forests mitigate variance and enhance model performance, offering insights into ensemble learning techniques and the synergy between SVM and Random Forest classifiers in handling noisy data.
-
-## Target Audience:
-This training series is tailored for:
-
-Researchers, scientists, and data practitioners involved in data-intensive research projects.
-Graduate students and academics seeking to enhance their data management and analysis skills.
-Professionals interested in leveraging machine learning techniques for research data analysis and discovery.
 
 ## Prerequisites:
 
