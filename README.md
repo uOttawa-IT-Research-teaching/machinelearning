@@ -2,67 +2,86 @@
 
 Welcome to the Bilingual (French and English) Machine Learning Tutorial Series published by uOttawa IT Research and Teaching!
 
+Experiment with code, and embark on a transformative learning experience in RDM, AI & ML!
+
 ## Collaborators
 
-The Machine Learning Tutorial Seriesis a significant contribution to the AI & ML training materials available to the academic research community in Canada and beyond. This bilingual resource was developed to raise awareness, understanding, and utilization of Artificial Intelligence (AI) and Machine Learning (ML) within our University of Ottawa research community, but with the support of Compute Ontario funding these tutorials will be appreciated by researchers affiliated with many institutions of higher education.
+The Machine Learning Tutorial Series is a significant contribution to the AI & ML training materials available to the academic research community in Canada and beyond. This bilingual resource was developed to raise awareness, understanding, and utilization of Artificial Intelligence (AI) and Machine Learning (ML) within our University of Ottawa research community, but with the support of Compute Ontario funding these tutorials will be appreciated by researchers affiliated with many institutions of higher education.
 
-The Machine Learning Tutorial Series involved a collaborative effort from a team consisting of Scientific Computing specialists; a Librarain from the Data Literacy Research Institute with expertise in Research Data Management; advisors accross disciplines; and research assistants with Digital Humanities experience. This cobination of expertise spanning scientific computing, AI training, research data management and multiple disciplinary perspectives, integrates best practices in Research Data Management with AI and ML tutorials. With an advisor from the University of Ottawa’s research support and infrastructure team, the project ensures alignment with academic standards and aims to empower researchers and support staff with easily accessible, reusable training assets in both French and English.
+The Machine Learning Tutorial Series involved a collaborative effort from a team consisting of Scientific Computing specialists; a Librarian from the Data Literacy Research Institute with expertise in Research Data Management; advisors accross disciplines; and research assistants with Digital Humanities experience. This combination of expertise spanning scientific computing, AI training, research data management, and multiple disciplinary perspectives, integrates best practices in Research Data Management with AI and ML tutorials. With an advisor from the University of Ottawa’s research support and infrastructure team, the project aligns with academic standards and empowers researchers and research support staff with easily accessible, reusable training assets in both French and English.
 
-We use the credit taxonomy to acknowledge authorship roles. The participants agreed to be credited for their contributions during the collaborative document creation process and were reminded of their role as authors prior to the document's publication.
+We use the CRediT Contributor Role Taxonomy to acknowledge authorship roles on this Tutorial Series. The participants agreed to be credited for their contributions during the collaborative document creation process and were reminded of their role as authors prior to the document's publication.
 
-Project lead: Jarno van der Kolk, PhD, Senior Scientific Computing Specialist (University of Ottawa)
+Project lead, conceptualization and writing : Jarno van der Kolk, PhD, Senior Scientific Computing Specialist (University of Ottawa)
 
-AI training expert: Peter Darveau P. Eng. CED - Scientific Computing Support / Developer (University of Ottawa)
+AI training expert, writing: Peter Darveau P. Eng. CED - Scientific Computing Support / Developer (University of Ottawa)
 
-RDM expert: Felicity Tayler, MLIS, PhD, Outreach Director \| DLRI and Research Data Management Librarian (University of Ottawa)
+Editor, RDM expert, writing : Felicity Tayler, MLIS, PhD, Outreach Director | DLRI and Research Data Management Librarian (University of Ottawa)
 
-Advisor: Julie St-Pierre, Associate Vice-President, Research Support and Infrastructure
+Advisor: Julie St-Pierre, PhD Associate Vice-President, Research Support and Infrastructure
+
+Research assistant, review: Farinaz Basmechi, PhD
+
+Training materials coordinator, review: François Thibeault | DLRI
+
+Translator: 
+
 
 ## Target Audience:
-This training series is tailored for:
+This training series is created for:
 
 * Researchers, scientists, and data practitioners involved in data-intensive research projects.
-* Graduate students and academics seeking to enhance their data management and analysis skills.
+* Graduate students, postgraduate researchers, and academic faculty and administrators seeking to enhance their data management and analysis skills.
 * Professionals interested in leveraging machine learning techniques for research data analysis and discovery.
 
-## How Does This Learning Resource Work?
-This training series aims to address three key gaps in understanding AI and machine learning (ML) methodologies: providing an introduction to AI and ML models, preparing data for these models, and incorporating research data management (RDM) practices into AI and ML-enabled methodologies. While AI and ML are recognized for their potential to automate tasks, identify patterns in data, and assist with analysis, many researchers struggle to apply these computational methods effectively to their research due to several challenges. These include the complexity of selecting the appropriate model for their data, the common omission of data cleaning processes in tutorials, resulting in mismatches between learned models and real-world data, and the separation of AI and ML techniques from RDM practices. By integrating RDM best practices into AI and ML training, researchers can enhance their understanding of methodologies, improve data handling and ethics, foster reproducibility, and gain public trust in these impactful computational methods.
+## How Does This Open Educational Learning Resource Work?
+This tutorial series addresses three key gaps in understanding AI and machine learning (ML) methodologies: 
+* Providing an introduction to AI and ML models,
+* Preparing data for these models, and
+* Incorporating research data management (RDM) practices into AI and ML-enabled methodologies.
 
-The outcome of the Machine Learning Tutorial Series is aimed at integrating research data management (RDM) best practices with AI and ML tutorials to attract new users, engage existing ones, and showcase the capabilities of HPC computing technologies. Through the development of easily accessible, bilingual training assets, both researchers and support staff will be equipped to harness advanced computing and AI technology for accelerating discovery. This initiative plans to produce seminar and workshop materials covering six new topics, aligning with the DMP Assistant Data Management Plan framework to illustrate AI and ML techniques and modeling while enhancing existing content. These tutorials will guide learners through the process of accessing and cleaning open data for AI and ML model implementation, each session focusing on a new AI or ML model and highlighting both its advantages and limitations alongside RDM best practices throughout the research data life cycle.
+While AI and ML are recognized for their potential to automate tasks, identify patterns in data, and assist with analysis, many researchers struggle to apply these computational methods effectively to their research due to several challenges. These challenges include the complexity of selecting the appropriate model for their data; the common omission of data cleaning processes, resulting in mismatches between learned models and real-world data; and the separation of AI and ML techniques from RDM practices. By integrating RDM best practices into AI and ML training, researchers can enhance their understanding of methodologies, improve data handling and project management to reduce bias and respect ethics protocols; foster reproducibility; and gain public trust in these impactful computational methods.
 
 The training material provided in this repository consists of Jupyter Notebooks, datasets, and additional resources carefully curated by the uOttawa team. Each notebook is designed to provide a structured learning experience, combining theoretical explanations with hands-on exercises to reinforce understanding.
 
 In each notebook you will see a short description of the training material, the learning objectives and the average time to complete, the necessary tools and documents you will need to complete the training, RDM best practices, and the step-by-step training content.
 
-These series were developed by a team of scholars from the University of Ottawa. The development of the Machine Learning Series Training involved collaboration among scientific computing specialists, Jarno van der Kolk and Peter Darveau, and Felicity Tayler a specialist from the Data Literacy Research Institute focusing on Research Data Management, advisors, and research assistants. Led by a diverse team with expertise spanning scientific computing, AI training, and research data management, the initiative seeks to integrate best practices in research data management with AI and ML tutorials. With Julie St-Pierre, an advisor from the University of Ottawa’s research support and infrastructure team, the project ensures alignment with academic standards and aims to empower researchers and support staff with easily accessible, reusable training assets in both French and English.
+This Series began with four core Tutorials:
+* 
+
+This initiative plans to produce seminar and workshop materials covering six new topics, aligning with the DMP Assistant Data Management Plan framework to illustrate AI and ML techniques and modeling while enhancing existing content. These tutorials will guide learners through the process of accessing and cleaning open data for AI and ML model implementation, each session focusing on a new AI or ML model and highlighting both its advantages and limitations alongside RDM best practices throughout the research data life cycle.
 
 ## Index to the Tutorials
 
-In this series of training, we cover the following topics:
+In this Tutorial Series, we cover the following topics:
 
 * [Data cleaning and linear regression](https://github.com/uOttawa-IT-Research-teaching/ML_cleaning_and_regression)
-* [K-nearest neighbours](https://github.com/uOttawa-IT-Research-teaching/ML_k-nearest-neightbours)
 * [Decision trees and random forests](https://github.com/uOttawa-IT-Research-teaching/DecisionTrees)
 * [Support vector machines](https://github.com/uOttawa-IT-Research-teaching/SVM)
 * [Naive Bayes](https://github.com/uOttawa-IT-Research-teaching/ML_naive_bayes)
+
+More Tutorials will be added to this list as they become available, but since we teach these as regular training sessions on campus, we will give you a sneak peek at our working training materials, as we go, these materials are English-language only for the moment1:
+
+* [K-nearest neighbours](https://github.com/uOttawa-IT-Research-teaching/ML_k-nearest-neightbours)
 * [Natural language processing](https://github.com/uOttawa-IT-Research-teaching/ML_Natural_Language_Processing)
 * [Introduction to deep and convolutional neural networks](https://github.com/uOttawa-IT-Research-teaching/DNN-CNN_Intro)
 * [DeepLearning with CNN](https://github.com/uOttawa-IT-Research-teaching/DeepLearning)
 * [Transfer learning](https://github.com/uOttawa-IT-Research-teaching/TransferLearning_CNN)
 * [Dataset analysis, model shortlisting and model determination](https://github.com/uOttawa-IT-Research-teaching/ML_Dataset_analysis_and_shortlisting)
 
+
 ## Prerequisites:
 
 Participants are expected to have:
 
 * Very basic knowledge of Python programming language.
-* Prior exposure to research data management practices is advantageous but not mandatory.
+* Prior exposure to RDM best practices is advantageous but not mandatory.
 
 ## Getting Started:
 
-To begin your journey into the realm of research data management and machine learning, explore the notebooks available in our [GitHub repository](https://github.com/orgs/uOttawa-IT-Research-teaching/repositories) or use the direct links from the index above.
+To begin your journey into the realm of RDM, AI and ML, explore the notebooks available in our [GitHub repository](https://github.com/orgs/uOttawa-IT-Research-teaching/repositories) or use the direct links from the index above.
 
-Feel free to engage with the material, experiment with the code, and embark on a transformative learning experience in research data management and machine learning!
+Feel free to engage with the material, experiment with the code, and embark on a transformative learning experience in RDM, AI & ML!
 
 All notebooks have been created as Jupyter notebooks which are a blend of explanatory text and executable Python code. There are various ways to run these yourself. There are a few zero-configuration online platforms available:
 
