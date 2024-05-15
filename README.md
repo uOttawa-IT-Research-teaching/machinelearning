@@ -47,7 +47,7 @@ In this series of training, we cover the following topics:
 * [Naive Bayes](https://github.com/uOttawa-IT-Research-teaching/ML_naive_bayes)
 * [Natural language processing](https://github.com/uOttawa-IT-Research-teaching/ML_Natural_Language_Processing)
 * [Introduction to deep and convolutional neural networks](https://github.com/uOttawa-IT-Research-teaching/DNN-CNN_Intro)
-* [Image inferencing with convolutional neural networks](https://github.com/uOttawa-IT-Research-teaching/DeepLearning)
+* [DeepLearning with CNN](https://github.com/uOttawa-IT-Research-teaching/DeepLearning)
 * [Transfer learning](https://github.com/uOttawa-IT-Research-teaching/TransferLearning_CNN)
 * [Dataset analysis, model shortlisting and model determination](https://github.com/uOttawa-IT-Research-teaching/ML_Dataset_analysis_and_shortlisting)
 
