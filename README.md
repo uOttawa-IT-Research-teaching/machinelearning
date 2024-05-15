@@ -16,16 +16,15 @@ Project lead, conceptualization and writing : Jarno van der Kolk, PhD, Senior Sc
 
 AI training expert, writing: Peter Darveau P. Eng. CED - Scientific Computing Support / Developer (University of Ottawa)
 
-Editor, RDM expert, writing : Felicity Tayler, MLIS, PhD, Outreach Director | DLRI and Research Data Management Librarian (University of Ottawa)
+Editor, RDM expert, writing : Felicity Tayler, MLIS, PhD, Outreach Director \| DLRI and Research Data Management Librarian (University of Ottawa)
 
 Advisor: Julie St-Pierre, PhD Associate Vice-President, Research Support and Infrastructure
 
 Research assistant, review: Farinaz Basmechi, PhD
 
-Training materials coordinator, review: François Thibeault | DLRI
+Training materials coordinator, review: François Thibeault \| DLRI
 
-Translator: 
-
+Translator: Matthieu Trudeau
 
 ## Target Audience:
 This training series is created for:
