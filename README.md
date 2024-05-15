@@ -94,7 +94,7 @@ If you want, you can also run the notebooks locally on your machine. Keep in min
 
 To install locally, the easiest way is to use Anaconda or Miniconda ([https://www.anaconda.com/](https://www.anaconda.com/)). They have the same base, but Anaconda will install everything you could possibly need which includes Python, Jupyter, and many of the required Python packages. If you are pressed for disk space, then Miniconda might be a better option. Instructions for setting up Miniconda can be found here: [https://docs.anaconda.com/free/miniconda/index.html](https://docs.anaconda.com/free/miniconda/index.html)
 
-Once Miniconda is installed, you can install Jupyter using
+If you chose to install Miniconda instead of Anaconda, you can install Jupyter using
 
 ```
 conda install -c conda-forge jupyterlab
