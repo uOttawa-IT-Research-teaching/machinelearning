@@ -1,12 +1,12 @@
-# Machine Learning Series
+# Machine Learning Tutorial Series
 
-Welcome to the Bilingual (French and English) Machine Learning Training Series hosted by uOttawa IT Research and Teaching!
+Welcome to the Bilingual (French and English) Machine Learning Tutorial Series published by uOttawa IT Research and Teaching!
 
 ## Collaborators
 
-The production of the Machine Learning Series represents a significant bilingual endeavor aimed at enhancing awareness, understanding, and utilization of Artificial Intelligence (AI) and Machine Learning (ML) within the research community.
+The Machine Learning Tutorial Seriesis a significant contribution to the AI & ML training materials available to the academic research community in Canada and beyond. This bilingual resource was developed to raise awareness, understanding, and utilization of Artificial Intelligence (AI) and Machine Learning (ML) within our University of Ottawa research community, but with the support of Compute Ontario funding these tutorials will be appreciated by researchers affiliated with many institutions of higher education.
 
-The development of Machine Learning Series Training involved a collaborative effort from a team consisting of scientific computing specialists, a specialist from the Data Literacy Research Institute focusing on Research Data Management, advisors, and research assistants. Led by a diverse team with expertise spanning scientific computing, AI training, and research data management the initiative seeks to integrate best practices in research data management with AI and ML tutorials. With an advisor from the University of Ottawa’s research support and infrastructure team, the project ensures alignment with academic standards and aims to empower researchers and support staff with easily accessible, reusable training assets in both French and English.
+The Machine Learning Tutorial Series involved a collaborative effort from a team consisting of Scientific Computing specialists; a Librarain from the Data Literacy Research Institute with expertise in Research Data Management; advisors accross disciplines; and research assistants with Digital Humanities experience. This cobination of expertise spanning scientific computing, AI training, research data management and multiple disciplinary perspectives, integrates best practices in Research Data Management with AI and ML tutorials. With an advisor from the University of Ottawa’s research support and infrastructure team, the project ensures alignment with academic standards and aims to empower researchers and support staff with easily accessible, reusable training assets in both French and English.
 
 We use the credit taxonomy to acknowledge authorship roles. The participants agreed to be credited for their contributions during the collaborative document creation process and were reminded of their role as authors prior to the document's publication.
 
