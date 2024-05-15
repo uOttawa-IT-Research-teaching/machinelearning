@@ -57,7 +57,7 @@ In this Tutorial Series, we cover the following topics:
 * [Support vector machines](https://github.com/uOttawa-IT-Research-teaching/SVM)
 * [Naive Bayes](https://github.com/uOttawa-IT-Research-teaching/ML_naive_bayes)
 
-More Tutorials will be added to this list as they become available, but since we teach these as regular training sessions on campus, we will give you a sneak peek at our working training materials, as we go, these materials are English-language only for the moment1:
+More Tutorials will be added to this list as they become available, but since we teach these as regular training sessions on campus, we will give you a sneak peek at our working training materials, as we go! These materials are English-language only for the moment:
 
 * [K-nearest neighbours](https://github.com/uOttawa-IT-Research-teaching/ML_k-nearest-neightbours)
 * [Natural language processing](https://github.com/uOttawa-IT-Research-teaching/ML_Natural_Language_Processing)
@@ -72,7 +72,7 @@ More Tutorials will be added to this list as they become available, but since we
 Participants are expected to have:
 
 * Very basic knowledge of Python programming language.
-* Prior exposure to RDM best practices is advantageous but not mandatory.
+* Prior exposure to basic RDM best practices is advantageous but not mandatory.
 
 ## Getting Started:
 
@@ -103,7 +103,7 @@ conda install -c conda-forge jupyterlab
 
 ## Acknowledgment
 
-These training modules were originally created for the uOttawa Scientific Computing teaching series and the RDM sections of the uOttawa Library RDM Services. The funding for this set of Machine Learning Trainings was supplied by Compute Ontario as an Open Educational Resource. The University of Ottawa holds ownership of this training series. This training is made available under the Creative Commons licence CC-BY 4.0, allowing for easy sharing and adaptation while ensuring proper attribution to the original creators.
+These training modules were originally created for the uOttawa Scientific Computing teaching series and the RDM sections of the uOttawa Library RDM Services. The funding for the Machine Learning Tutorial Series was supplied by Compute Ontario, to be published as an Open Educational Resource. The University of Ottawa holds ownership of this training series. This training is made available under the Creative Commons licence CC-BY 4.0, allowing for easy sharing and adaptation while ensuring proper attribution to the original creators.
 
 ## Support
 Members of the University of Ottawa can open a TOPdesk ticket at [https://topdesk.uottawa.ca](https://topdesk.uottawa.ca) for assistance with machine learning projects or getting access to computational resources to run them.
