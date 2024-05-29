@@ -65,10 +65,10 @@ This training followed the RDM file naming best practices to increase the discov
 To name our files we use the acronym of training as follows:  
 
 Machine Learning Tutorial Series (**MLTS**):
-Data Cleaning and Linear Regression (**DCRF**) 
-Decision Trees and Random Forests (**DTRF**)
-Support Vector Machines (**SVM**)
-Naive Bayes (**NB**)
+Data Cleaning and Linear Regression (**DCRF**),
+Decision Trees and Random Forests (**DTRF**),
+Support Vector Machines (**SVM**),
+Naive Bayes (**NB**).
 
 
 We implemented the following pattern for the file naming:
