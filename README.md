@@ -56,6 +56,32 @@ In this Tutorial Series, we cover the following topics:
 * [Support vector machines](https://github.com/uOttawa-IT-Research-teaching/SVM)
 * [Naive Bayes](https://github.com/uOttawa-IT-Research-teaching/ML_naive_bayes)
 
+Here is the structure of the Machine Learning Tutorial Series (MLTS):
+
+
+
+This training followed the RDM file naming best practices to increase the discoverability of our data. 
+
+
+
+
+To name our files we use the acronym of training as follows:  
+
+Machine Learning Tutorial Series (**MLTS**):
+Data Cleaning and Linear Regression (**DCRF**) 
+Decision Trees and Random Forests (**DTRF**)
+Support Vector Machines (**SVM**)
+Naive Bayes (**NB**)
+
+
+We implemented the following pattern for the file naming:
+
+
+
+Project_date_AbbreviationofRelevantTraining_ContentDescription_Languageversion_Version.ext
+
+
+
 More Tutorials will be added to this list as they become available, but since we teach these as regular training sessions on campus, we will give you a sneak peek at our working training materials, as we go! These materials are English-language only for the moment:
 
 * [K-nearest neighbours](https://github.com/uOttawa-IT-Research-teaching/ML_k-nearest-neightbours)
