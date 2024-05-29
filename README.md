@@ -56,7 +56,7 @@ In this Tutorial Series, we cover the following topics:
 * [Support vector machines](https://github.com/uOttawa-IT-Research-teaching/SVM)
 * [Naive Bayes](https://github.com/uOttawa-IT-Research-teaching/ML_naive_bayes)
 
-Here is the structure of the Machine Learning Tutorial Series (MLTS):
+Here is the current structure of the Machine Learning Tutorial Series (MLTS):
 ![image](https://github.com/uOttawa-IT-Research-teaching/machinelearning/assets/49539567/7d91a1be-e066-4180-a996-7816d9a2eadb)
 
 
