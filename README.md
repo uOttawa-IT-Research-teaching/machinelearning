@@ -58,6 +58,7 @@ In this Tutorial Series, we cover the following topics:
 
 Here is the structure of the Machine Learning Tutorial Series (MLTS):
 
+https://github.com/uOttawa-IT-Research-teaching/machinelearning/blob/aa045228fe4360bebbac3a084630221cbc93a064/Structure.jpg
 
 
 This training followed the RDM file naming best practices to increase the discoverability of our data. 
