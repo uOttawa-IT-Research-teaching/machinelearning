@@ -57,15 +57,11 @@ In this Tutorial Series, we cover the following topics:
 * [Naive Bayes](https://github.com/uOttawa-IT-Research-teaching/ML_naive_bayes)
 
 Here is the structure of the Machine Learning Tutorial Series (MLTS):
-![image](https://github.com/uOttawa-IT-Research-teaching/machinelearning/assets/49539567/63fd90aa-50c1-4336-bf2c-b9a37ac5e63b)
+![image](https://github.com/uOttawa-IT-Research-teaching/machinelearning/assets/49539567/7d91a1be-e066-4180-a996-7816d9a2eadb)
 
 
 
 This training followed the RDM file naming best practices to increase the discoverability of our data. 
-
-
-
-
 To name our files we use the acronym of training as follows:  
 
 Machine Learning Tutorial Series (**MLTS**):
@@ -76,10 +72,11 @@ Naive Bayes (**NB**)
 
 
 We implemented the following pattern for the file naming:
+![image](https://github.com/uOttawa-IT-Research-teaching/machinelearning/assets/49539567/0d07ed47-f881-4ad9-847e-3e94c9acf953)
 
 
 
-Project_date_AbbreviationofRelevantTraining_ContentDescription_Languageversion_Version.ext
+**Project_date_AbbreviationofRelevantTraining_ContentDescription_Languageversion_Version.ext**
 
 
 
