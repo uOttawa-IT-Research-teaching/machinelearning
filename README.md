@@ -1,3 +1,5 @@
+([Disponible en français](LISEZMOI.html))
+
 # Machine Learning Tutorial Series
 
 Welcome to the Bilingual (French and English) Machine Learning Tutorial Series published by uOttawa IT Research and Teaching!
