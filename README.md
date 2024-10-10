@@ -55,8 +55,8 @@ In this Tutorial Series, we cover the following topics:
 
 * [Data cleaning and linear regression](https://github.com/uOttawa-IT-Research-teaching/ML_cleaning_and_regression)
 * [Decision trees and random forests](https://github.com/uOttawa-IT-Research-teaching/DecisionTrees)
-* [Support vector machines](https://github.com/uOttawa-IT-Research-teaching/SVM)
 * [Naive Bayes](https://github.com/uOttawa-IT-Research-teaching/ML_naive_bayes)
+* [Support vector machines](https://github.com/uOttawa-IT-Research-teaching/SVM)
 
 Here is the current structure of the Machine Learning Tutorial Series (MLTS):
 ![image](https://github.com/uOttawa-IT-Research-teaching/machinelearning/assets/49539567/7d91a1be-e066-4180-a996-7816d9a2eadb)
