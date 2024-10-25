@@ -1,1 +1,12 @@
+on: push
 
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Send repo to Dataverse 
+        uses: IQSS/dataverse-uploader@v1.6
+        with:
+          DATAVERSE_TOKEN: ${{secrets.BOREALIS}}
+          DATAVERSE_SERVER: https://borealisdata.ca
+          DATAVERSE_DATASET_DOI: doi:10.5683/SP3/YQ5SN2
