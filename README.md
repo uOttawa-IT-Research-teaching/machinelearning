@@ -57,6 +57,11 @@ In this Tutorial Series, we cover the following topics:
 * [Decision trees and random forests](https://github.com/uOttawa-IT-Research-teaching/DecisionTrees)
 * [Naive Bayes](https://github.com/uOttawa-IT-Research-teaching/ML_naive_bayes)
 * [Support vector machines](https://github.com/uOttawa-IT-Research-teaching/SVM)
+* [K-nearest neighbours](https://github.com/uOttawa-IT-Research-teaching/ML_k-nearest-neightbours)
+* [Natural language processing](https://github.com/uOttawa-IT-Research-teaching/ML_Natural_Language_Processing)
+* [Introduction to deep and convolutional neural networks](https://github.com/uOttawa-IT-Research-teaching/DNN-CNN_Intro)
+* [Transfer learning](https://github.com/uOttawa-IT-Research-teaching/TransferLearning_CNN)
+* [Dataset analysis, model shortlisting and model determination](https://github.com/uOttawa-IT-Research-teaching/ML_Dataset_analysis_and_shortlisting)
 
 Here is the current structure of the Machine Learning Tutorial Series (MLTS):
 ![image](https://github.com/uOttawa-IT-Research-teaching/machinelearning/assets/49539567/7d91a1be-e066-4180-a996-7816d9a2eadb)
@@ -82,14 +87,8 @@ We implemented the following pattern for the file naming:
 
 
 
-More Tutorials will be added to this list as they become available, but since we teach these as regular training sessions on campus, we will give you a sneak peek at our working training materials, as we go! These materials are English-language only for the moment:
 
-* [K-nearest neighbours](https://github.com/uOttawa-IT-Research-teaching/ML_k-nearest-neightbours)
-* [Natural language processing](https://github.com/uOttawa-IT-Research-teaching/ML_Natural_Language_Processing)
-* [Introduction to deep and convolutional neural networks](https://github.com/uOttawa-IT-Research-teaching/DNN-CNN_Intro)
-* [DeepLearning with CNN](https://github.com/uOttawa-IT-Research-teaching/DeepLearning)
-* [Transfer learning](https://github.com/uOttawa-IT-Research-teaching/TransferLearning_CNN)
-* [Dataset analysis, model shortlisting and model determination](https://github.com/uOttawa-IT-Research-teaching/ML_Dataset_analysis_and_shortlisting)
+
 
 
 ## Prerequisites:

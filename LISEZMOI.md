@@ -61,6 +61,11 @@ Les sujets suivants sont abordés dans le cadre de cette série de tutoriels :
 * [Arbres de décision et forêts aléatoires](https://github.com/uOttawa-IT-Research-teaching/DecisionTrees)
 * [Machines à vecteurs de support (classificateurs à vaste marge)](https://github.com/uOttawa-IT-Research-teaching/SVM)
 * [Classificateurs bayésiens naïfs](https://github.com/uOttawa-IT-Research-teaching/ML_naive_bayes)
+* [Plus proches voisins](https://github.com/uOttawa-IT-Research-teaching/ML_k-nearest-neightbours)
+* [Traitement du langage naturel](https://github.com/uOttawa-IT-Research-teaching/ML_Natural_Language_Processing)
+* [Introduction aux réseaux de neurones profonds et à convolution](https://github.com/uOttawa-IT-Research-teaching/DNN-CNN_Intro)
+* [Apprentissage par transfert](https://github.com/uOttawa-IT-Research-teaching/TransferLearning_CNN)
+* [Analyse de jeux de données, présélection et détermination de modèles](https://github.com/uOttawa-IT-Research-teaching/ML_Dataset_analysis_and_shortlisting)
 
 <!--** TO BE TRANSLATED **
 Here is the current structure of the Machine Learning Tutorial Series (MLTS):
@@ -81,15 +86,6 @@ We implemented the following pattern for the file naming:
 **Project_date_AbbreviationofRelevantTraining_ContentDescription_Languageversion_Version.ext**
 
 ** END TO BE TRANSLATED **-->
-
-D’autres tutoriels s’ajouteront progressivement à la liste. Mais comme nous les enseignons sur le campus dans le cadre de séances de formation régulières, nous vous offrirons au fur et à mesure un bref aperçu de ce matériel didactique. Ce matériel n’est disponible qu’en anglais pour le moment :
-
-* [Plus proches voisins](https://github.com/uOttawa-IT-Research-teaching/ML_k-nearest-neightbours)
-* [Traitement du langage naturel](https://github.com/uOttawa-IT-Research-teaching/ML_Natural_Language_Processing)
-* [Introduction aux réseaux de neurones profonds et à convolution](https://github.com/uOttawa-IT-Research-teaching/DNN-CNN_Intro)
-* [Apprentissage profond via les RNC](https://github.com/uOttawa-IT-Research-teaching/DeepLearning)
-* [Apprentissage par transfert](https://github.com/uOttawa-IT-Research-teaching/TransferLearning_CNN)
-* [Analyse de jeux de données, présélection et détermination de modèles](https://github.com/uOttawa-IT-Research-teaching/ML_Dataset_analysis_and_shortlisting)
 
 
 ## Prérequis:
