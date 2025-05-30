@@ -63,8 +63,7 @@ Les sujets suivants sont abordés dans le cadre de cette série de tutoriels :
 * [Classificateurs bayésiens naïfs](https://github.com/uOttawa-IT-Research-teaching/ML_naive_bayes)
 * [Plus proches voisins](https://github.com/uOttawa-IT-Research-teaching/ML_k-nearest-neightbours)
 * [Traitement du langage naturel](https://github.com/uOttawa-IT-Research-teaching/ML_Natural_Language_Processing)
-* [Introduction aux réseaux de neurones profonds et à convolution](https://github.com/uOttawa-IT-Research-teaching/DNN-CNN_Intro)
-* [Apprentissage par transfert](https://github.com/uOttawa-IT-Research-teaching/TransferLearning_CNN)
+* [Apprentissage par transfert et introduction aux réseaux de neurones convolutifs](https://github.com/uOttawa-IT-Research-teaching/TransferLearning_CNN)
 * [Analyse de jeux de données, présélection et détermination de modèles](https://github.com/uOttawa-IT-Research-teaching/ML_Dataset_analysis_and_shortlisting)
 
 <!--** TO BE TRANSLATED **

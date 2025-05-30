@@ -59,8 +59,7 @@ In this Tutorial Series, we cover the following topics:
 * [Support vector machines](https://github.com/uOttawa-IT-Research-teaching/SVM)
 * [K-nearest neighbours](https://github.com/uOttawa-IT-Research-teaching/ML_k-nearest-neightbours)
 * [Natural language processing](https://github.com/uOttawa-IT-Research-teaching/ML_Natural_Language_Processing)
-* [Introduction to deep and convolutional neural networks](https://github.com/uOttawa-IT-Research-teaching/DNN-CNN_Intro)
-* [Transfer learning](https://github.com/uOttawa-IT-Research-teaching/TransferLearning_CNN)
+* [Transfer learning and introduction to convolutional neural networks](https://github.com/uOttawa-IT-Research-teaching/TransferLearning_CNN)
 * [Dataset analysis, model shortlisting and model determination](https://github.com/uOttawa-IT-Research-teaching/ML_Dataset_analysis_and_shortlisting)
 
 Here is the current structure of the Machine Learning Tutorial Series (MLTS):
